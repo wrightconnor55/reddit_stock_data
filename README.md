@@ -1,6 +1,6 @@
 ## One-Piece Sentiment Analysis
 ### Overview
-This project involves training a language model to analyze the sentiment of comments from the One Piece subreddit. The goal is to utilize this sentiment analysis to inform a front-end application that tracks the One Piece stock market. By gauging community sentiment, users can make more informed decisions regarding their investments.
+This project involves training a language model to analyze the sentiment of comments from the One Piece subreddit. The goal is to utilize this sentiment analysis to inform a front-end application that creates a fake One Piece character stock market based on current community sentiments.
 
 ### Features
 - Sentiment Analysis: A trained model to evaluate the sentiment of subreddit comments.
