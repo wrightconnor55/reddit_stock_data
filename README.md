@@ -5,6 +5,7 @@ This project involves training a language model to analyze the sentiment of comm
 ### Features
 - Sentiment Analysis: A trained model to evaluate the sentiment of subreddit comments.
 - Data Collection: Automated scraping of comments from the One Piece subreddit.
+- Data Storage: Processed data can/will be imported to a PostgreSQL database.
 
 #### License
 - This project is licensed under the MIT License. See the LICENSE file for details.
